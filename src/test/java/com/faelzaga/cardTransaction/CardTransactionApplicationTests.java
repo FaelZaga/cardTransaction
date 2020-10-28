@@ -1,0 +1,13 @@
+package com.faelzaga.cardTransaction;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CardTransactionApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
